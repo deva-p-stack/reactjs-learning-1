@@ -7,11 +7,8 @@ function App() {
   return (
     <>
 
-
-
-
 <div className="card">
-  <h1 className='developer'>Developer Profile</h1>
+  <h1 className='developer an'>Developer Profile</h1>
 
 
   <section className='section1'>
@@ -32,15 +29,15 @@ function App() {
 
   
   <section >	
-    <h2 className='title' >Projects</h2>
+    <h2 className='title an' >Projects</h2>
 
-    <div className="project ">
+    <div className="project an ">
       <h3 className='fontblod'>Portfolio Website</h3>
       <p>Personal portfolio built using React.</p>
       <span>Status: Completed</span>
     </div>
 
-    <div className="project">
+    <div className="project an">
       <h3 className='fontblod'>Task Manager</h3>
       <p>A simple task management app.</p>
       <span>Status: In Progress</span>
